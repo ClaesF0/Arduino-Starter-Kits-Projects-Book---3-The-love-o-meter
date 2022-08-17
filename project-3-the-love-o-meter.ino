@@ -1,10 +1,3 @@
-# Arduino-Starter-Kits-Projects-Book---3-The-love-o-meter
-Arduino Starter Kits Projects Book - 3: The love-o-meter, guides one through the process of building a circuit, that will use analog input on a temperature sensor which will light a given number of LED's relative to the code and the ambient/room temperature. 
-
-Feel free to copy!
-Enjoy :) 
-
-
 const int sensorPin = A0;
 const float baselineTemp = 24.0; //temperature in Celcius
 void setup(){
